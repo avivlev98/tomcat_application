@@ -6,7 +6,7 @@
     <title>Simple JSP Example</title>
 </head>
 <body>
-    <h1>Devops Tomcat Server is Up and Running - Test Trigger 1</h1>
+    <h1>Devops Tomcat Server is Up and Running - Test Trigger 2</h1>
     <p>This is a simple JSP example deployed on Apache Tomcat.</p>
     <%
         String name = "Data page";
